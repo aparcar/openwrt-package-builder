@@ -1,0 +1,6 @@
+[submodule "lime_packages"]
+	path = lime_packages
+	url = https://github.com/libremesh/lime-packages.git
+[submodule "mm_toolbox"]
+	path = mm_toolbox
+	url = https://github.com/MassMesh/mm-toolbox.git
